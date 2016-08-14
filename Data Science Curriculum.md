@@ -8,11 +8,11 @@ Of course, with data science being a very hands-on discipline, each topic in the
 
 # A Generalized Order of Learning Verbs
 To synthesize the above section into learning verbs, below is a list, in order of how the data science skills of the curriculum are suggested to be acquired. This is just my suggestion but this is how I would teach the material. 
-1. *Reading* - Reading of new material is done first before any lecture. For most material, a good book exists that can cover the material.
-2. *Listening* - Listening can refer to the more traditional lecture where only the most important/difficult concepts of the book are reahashed. This time could also be used as a question and answering session instead of any lecture. Online videos can be watched in replacement of a lecture. Blog posts and online forum discussions can also be good.  
-3. *Doing* - Doing refers to attempting problem sets and programming assignments on your own with limited help. Struggling without help is a great way to learn.
-4. *Collaborating* - Working with others on problem sets or programming assignments is invaluable to the learning process. Seeing solutions from instructors or peers can be very helpful.
-5. *Remembering* - Covering a large amount of topics in a short amount of time is a recipe for quickly forgetting. Techniques such as spaced repetition can help you remember and reinforce previous concepts.
+1. **Reading* - Reading of new material is done first before any lecture. For most material, a good book exists that can cover the material.  
+2. **Listening* - Listening can refer to the more traditional lecture where only the most important/difficult concepts of the book are reahashed. This time could also be used as a question and answering session instead of any lecture. Online videos can be watched in replacement of a lecture. Blog posts and online forum discussions can also be good.  
+3. **Doing* - Doing refers to attempting problem sets and programming assignments on your own with limited help. Struggling without help is a great way to learn.  
+4. **Collaborating* - Working with others on problem sets or programming assignments is invaluable to the learning process. Seeing solutions from instructors or peers can be very helpful.  
+5. **Remembering* - Covering a large amount of topics in a short amount of time is a recipe for quickly forgetting. Techniques such as spaced repetition can help you remember and reinforce previous concepts.  
 
 # Week 0: Prerequisite Knowledge
 Before getting started on the main curriculum, some minimum assumptions are made: That you have some background in programming and some background in statistics and can do basic algebra
