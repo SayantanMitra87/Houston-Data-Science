@@ -1,0 +1,2 @@
+# Earning you way to a career in data science
+This page is intended to showcase a detailed curriculum that one could follow over the course of 18 weeks to acquire the necessary skills to become a data scientist. 
