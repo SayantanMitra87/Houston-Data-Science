@@ -20,6 +20,11 @@ Below is a list of verbs used to synthesize the above section in order of how th
 5. **Remembering** - Covering a large amount of topics in a short amount of time is a recipe for quickly forgetting. Techniques such as spaced repetition can help you remember and reinforce previous concepts.  
 
 # Week 0: Prerequisite Knowledge
+
+### Books
+1. [Think Python](http://greenteapress.com/wp/think-python-2e/)  
+2. [Statistics by David Freedman](https://www.amazon.com/Statistics-4th-David-Freedman/dp/0393929728/)  
+
 Before getting started on the main curriculum, some minimum assumptions are made: That you have some background in programming and some background in statistics and at the very least can do basic algebra. 
 
 ### Python
@@ -31,3 +36,6 @@ There are dozens of books and online courses available to begin learning Python.
 
 ### Statistics
 The complement to computer skills for data scientists are math/statistics skills. To ease the student into statistics (for those that have forgotten or never taken a formal class), a nearly formula-less book called [Statistics by David Freedman](https://www.amazon.com/Statistics-4th-David-Freedman/dp/0393929728/). This book is good for getting an intuition about how statisticians think about problems and is read almost like a novel in that there is very little math to be done. The first five parts (18 chapters) cover the core proability and statistics material that forms the foundation of entry level stat books.
+
+# Week 1: Software Development
+
