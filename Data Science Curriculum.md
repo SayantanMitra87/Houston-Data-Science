@@ -10,8 +10,8 @@ This is not to disparage online courses, as I have taken over a dozen of them my
 
 Of course, with data science being a very hands-on discipline, each topic in the curriculum will have programming assignments designed to implement theory and application taught in the textbooks.
 
-# A Generalized Order of Learning Verbs
-To synthesize the above section into learning verbs, below is a list, in order of how the data science skills of the curriculum are suggested to be acquired. This is just my suggestion but this is how I would teach the material.  
+# A Generalized Order of Learning
+Below is a list of verbs used to synthesize the above section in order of how the data science skills of the curriculum are suggested to be acquired. This is just my suggestion but this is how I would teach the material.  
 
 1. **Reading** - Reading of new material is done first before any lecture. For most material, a good book exists that can cover the material.  
 2. **Listening** - Listening can refer to the more traditional lecture where only the most important/difficult concepts of the book are reahashed. This time could also be used as a question and answering session instead of any lecture. Online videos can be watched in replacement of a lecture. Blog posts and online forum discussions can also be good.  
@@ -20,4 +20,14 @@ To synthesize the above section into learning verbs, below is a list, in order o
 5. **Remembering** - Covering a large amount of topics in a short amount of time is a recipe for quickly forgetting. Techniques such as spaced repetition can help you remember and reinforce previous concepts.  
 
 # Week 0: Prerequisite Knowledge
-Before getting started on the main curriculum, some minimum assumptions are made: That you have some background in programming and some background in statistics and can do basic algebra
+Before getting started on the main curriculum, some minimum assumptions are made: That you have some background in programming and some background in statistics and at the very least can do basic algebra. 
+
+### Python
+Good data science requires the knowledge of at least one programming language and it is better to know one programming language very well than many only marginally. This is similar to natural language where learning one language fluently is better than knowing several at the same level that a five year old does. After mastering one programming language it's usually fairly easy to translate code to another language as the concepts of programming do not change drastically from one to another.
+
+The Python programming language is an excellent choice for learning data science. It is general purpose (can handle nearly any task), high level (for dummies), open source (free to see source code and usually free to use), has an excellent community (help is just a google search away) and has many friendly data science libraries already built (batteries included).
+
+There are dozens of books and online courses available to begin learning Python. The short book [Think Python](http://greenteapress.com/wp/think-python-2e/) (freely available) is a solid introduction to the language and will be supplemented by an abundance (50+) of short exercises and some smaller data inspecting/cleansing assignments using just the standard libraries (not the third party data science ones)
+
+### Statistics
+The complement to computer skills for data scientists are math/statistics skills. To ease the student into statistics (for those that have forgotten or never taken a formal class), a nearly formula-less book called [Statistics by David Freedman](https://www.amazon.com/Statistics-4th-David-Freedman/dp/0393929728/). This book is good for getting an intuition about how statisticians think about problems and is read almost like a novel in that there is very little math to be done. The first five parts (18 chapters) cover the core proability and statistics material that forms the foundation of entry level stat books.
