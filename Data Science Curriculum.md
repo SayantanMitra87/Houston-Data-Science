@@ -37,5 +37,145 @@ There are dozens of books and online courses available to begin learning Python.
 ### Statistics
 The complement to computer skills for data scientists are math/statistics skills. To ease the student into statistics (for those that have forgotten or never taken a formal class), a nearly formula-less book called [Statistics by David Freedman](https://www.amazon.com/Statistics-4th-David-Freedman/dp/0393929728/). This book is good for getting an intuition about how statisticians think about problems and is read almost like a novel in that there is very little math to be done. The first five parts (18 chapters) cover the core proability and statistics material that forms the foundation of entry level stat books.
 
-# Week 1: Software Development
+# Week 1: Software Development and Advanced Python
 
+### Books
+1. [Fluent Python](https://www.amazon.com/Fluent-Python-Ramalho/dp/1491946008)  
+2. [Head First Software Development](https://www.amazon.com/Head-First-Software-Development-Pilone/dp/0596527357)
+
+After covering the basics of Python in the [Think Python](http://greenteapress.com/wp/think-python-2e/) the student should be ready for a more advanced understanding of the language to help develop
+
+* Day 1: Review of introductory python with focus on data structures 
+* Day 2: Software development lifecycle with focus on debugging and testing  
+* Day 3: Overview of Classes and Objet Oriented Programming 
+* Day 4: Python Data Model, special methods and the Standard Library    
+* Day 5: Multithreading and Multiprocessing   
+
+# Week 2: Data Wrangling
+
+After gaining a firm understanding of the core concepts of Python from Week 0 and 1, a deep dive into Python's data exploration libraries will be undertaken. The Pandas library is phenomenal for nearly all kinds of data wrangling tasks. In addition to Pandas a thorough look at Python's excellent visualization libraries - matplotlib and seaborn will be covered.
+
+### Books
+[Learning Pandas](https://www.amazon.com/Learning-Pandas-Python-Discovery-Analysis/dp/1783985127)  
+
+* Day 1: Introduction to Series and DataFrames  
+* Day 2: Split-Apply-Combine and Tidy Data  
+* Day 3: Matplotlib and Seaborn  
+* Day 4: Time Series and miscellaneous Pandas functionality  
+* Day 5: Data Science mock interview Assignment  
+
+# Week 3: Probability
+
+### Books
+[Introduction to Probability](https://www.amazon.com/Introduction-Probability-Statistics-Random-Processes/dp/0990637204) - Also free online at probabilitycourse.com.  
+
+Although many data science jobs don't involve calculating probabilities by hand, the subjet underlies nearly all of data science tasks. A good understanding of probability will provide for much greater comprehension of many machine learning techniques.  
+
+* Day 1: Basic Discrete and Continuous Probability  
+* Day 2: Conditional Probability, Bayes Theorem and counting methods  
+* Day 3: Random Variables - Expected Value and Variance  
+* Day 4: Discrete and Continuous Distributions  
+* Day 5: Joint Distributions  
+
+# Week 4: Statistics
+
+### Books
+1. [Statistics in Plain English](https://www.amazon.com/Statistics-Plain-English-Third-Timothy/dp/041587291X)  
+
+* Day 1: Sampling Distributions and the Centeral Limit Theorem  
+* Day 2: Hypothesis Testing, confidence intervals, p-values, types of errors  
+* Day 3: Hypothesis Testing, confidence intervals, p-values, types of errors  
+* Day 4: Experimental Design and ANOVA  
+* Day 5: Case Study  
+
+
+# Week 5: Databases and SQL
+
+Statistics courses are generally taught with numbers that masquerade as data. Data in the wild is something completely different. The world's data is held in databases and up until recently most of this data was held in relational databases. Designing and understanding the basics of relational databases is extremely important as a data scientist. Communicating with data modelers/engineers will be very important. And accessing data through the (mostly) simple structure query language, SQL, is an absolute necessity to become a data scientist.
+
+### Books
+Either MySQL or PostgreSQL book  
+
+* Day 1: Introduction to Databases, relational databases, ER Modeling  
+* Day 2: Introduction to SQL (with MySQL or PostgreSQL), the different subcomponents of SQL and basic SELECT statements  
+* Day 3: Advanced SQL  
+* Day 4: Even more advanced SQL  
+* Day 5: Building a data warehouse in the cloud  
+
+# Week 6: Linear Models
+
+### Books
+[Introduction to Linear Regression Analysis](https://www.amazon.com/Introduction-Regression-Analysis-Douglas-Montgomery/dp/0470542810)
+
+* Day 1: Linear Regresion and correlation  
+* Day 2: Multiple Linear Regression, variable transformation and model building  
+* Day 3: Regression Diagnostics, Residual Analysis, Regularization  
+* Day 4: Classificaition with Logistic Regression  
+* Day 5: Generalized Linear Models  
+
+# Break Week
+
+# Week 7: Nonlinear Models
+
+### Books
+1. [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)  
+2. [Applied Predictive Modeling](https://www.amazon.com/Applied-Predictive-Modeling-Max-Kuhn/dp/1461468485)  
+
+* Day 1: Linear and nonlinear Discriminant Analysis  
+* Day 2: K-Nearest Neighbors and model validation  
+* Day 3: Support Vector Machines  
+* Day 4: Decision Trees  
+* Day 5: Random Forests and Gradient Boosted Trees  
+
+# Week 8: Dimensionality Reduction and Unsupervised Learning  
+
+* Day 1: Curse of Dimensionality and PCA  
+* Day 2: K-means and hierarchical clustering  
+* Day 3: One-class SVM  
+* Day 4: Expectation Maximization   
+* Day 5: Graph-based learning  
+
+# Week 9: Specialty Topics  
+
+* Day 1: Bag of Words model and Naive Bayes for Text Classification  
+* Day 2: Matrix Decomposition Methods for Topic Discovery  
+* Day 3: NLP Project  
+* Day 4: Recommendation Systems   
+* Day 5: Recommendation Systems  
+
+# Week 10: Hadoop Ecosystem  
+
+* Day 1: Linux  
+* Day 2: Hadoop and Map Reduce  
+* Day 3: Cloud computing - AWS or Google Cloud  
+* Day 4: Spark  
+* Day 5: Hbase  
+
+# Week 11: Neural Networks 
+
+* Day 1: Neural Networks  
+* Day 2: Convolutional and Recurrent Nets  
+* Day 3: Tensor Flow  
+* Day 4: Deep Learning 
+* Day 5: Autoencoders and Restricted Boltzman Machines  
+
+# Week 12: Web Development
+
+* Day 1: Basic html/css    
+* Day 2: Javascript  
+* Day 3: JQuery  
+* Day 4: D3  
+* Day 5: App building  
+
+# Break Week
+
+# Weeks 13 - 15: Capstone Project  
+
+# Week 16
+Review  
+
+# Week 17
+Hundreds of Interview Question and beginning of job search  
+
+# Week 18
+Interview Feedback  
