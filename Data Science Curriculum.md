@@ -1,7 +1,7 @@
 # Earning you way to a career in data science
 This page is intended to showcase a detailed curriculum that one could follow over the course of 18 weeks to acquire the necessary skills to become a very useful and practical data scientist. This curriculum is not meant as a replacement to machine learning, statistics, and computer science university Masters and Ph.D programs that take a more theoretical and abstract approach to their respective disciplines. You will not be magically transformed into one of the world's premier data scientists nor be able to do rigorous proofs of different machine learning concepts. 
 
-This curriculum is focused on transforming an individual to becoming the most practical, useful, and hireable to businesses that have use cases for advanced analytic intelligence. After course completion, you should be highly valuable to most any business that values data-driven decision making and have a good foundation for exploring in greater depth many other data science topics. 
+This curriculum is focused on transforming an individual to become the most practical, useful, and hireable to businesses that have use cases for advanced analytic intelligence. After course completion, you should be highly valuable to most any business that values data-driven decision making and have a good foundation for exploring in greater depth many other data science topics. 
 
 # Approach to Learning
 The main component of knowledge acquisition will be a time-tested source, the book. Reading textbooks can give you a very thorough, detailed and organized aggregation of the current knowledge you are trying to acquire. The many dozens of online data science courses that have come online in the last few years from coursera, edx, udacity, udemy, etc... have greatly expanded the ability of any individual to quickly acquire data science skills. Many of these courses do suggest books as companion sources but most don't enforce the reading of the material. Generally, a video lecture can only capture a small fraction of what is written in a textbook. 
@@ -175,7 +175,7 @@ Either MySQL or PostgreSQL book
 Review  
 
 # Week 17
-Hundreds of Interview Question and beginning of job search  
+Hundreds of Interview questions and beginning of job search  
 
 # Week 18
 Interview Feedback  
